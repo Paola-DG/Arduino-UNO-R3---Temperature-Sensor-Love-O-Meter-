@@ -11,11 +11,11 @@ The result is shown in real time using the Serial Monitor in the Arduino IDE, ma
 - [What You'll Need](#-what-youll-need)
 - [How It Works](#-how-it-works)
 - [Why This Project?](#-why-this-project)
-- [🖼️ Circuit Diagram & Setup](#️-circuit-diagram--setup)
-- [▶️ How to Run](#️-how-to-run)
-- [🔌 Pin Connections](#-pin-connections)
-- [💻 Sample Code (snippet)](#-sample-code-snippet)
-- [📤 Output Preview](#-output-preview)
+- [Circuit Diagram & Setup](#️-circuit-diagram--setup)
+- [How to Run](#️-how-to-run)
+- [Pin Connections](#-pin-connections)
+- [Sample Code (snippet)](#-sample-code-snippet)
+- [Output Preview](#-output-preview)
 
 ---
 
