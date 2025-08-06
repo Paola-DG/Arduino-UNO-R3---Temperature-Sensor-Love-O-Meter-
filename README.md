@@ -141,6 +141,8 @@ void loop() {
 }
 ```
 
+---
+
 ## 📤 Output Preview
 
 ### 🔢 Serial Monitor Output
@@ -156,11 +158,17 @@ Each line shows:
 
 ### 🔦 LED Response by Temperature
 
+
 | Temperature Range       | LED State           | Photo |
 |-------------------------|---------------------|-------|
 | < 22°C                  | All OFF             | ![](Assets/LEDs_All_Off.jpg) |
 | 22°C - 24°C             | LED 1 ON            | ![](Assets/LEDs_One_On.jpg) |
 | 24°C - 26°C             | LED 1 & 2 ON        | ![](Assets/LEDs_Two_On.jpg) |
 | ≥ 26°C                  | All LEDs ON         | ![](Assets/LEDs_All_On.jpg) |
+
+The LEDs on the breadboard react based on the temperature:
+- One LED for warm
+- Two LEDs for warmer
+- All three LEDs for hot
 
 ---
